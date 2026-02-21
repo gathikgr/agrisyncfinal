@@ -1,0 +1,13 @@
+{
+  "tagline": "Predict before you harvest.",
+  "authTitle": "Login or Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "role": "Role",
+  "farmer": "Farmer",
+  "buyer": "Buyer",
+  "continue": "Continue",
+  "profileSetup": "Profile Setup",
+  "saveProfile": "Save Profile",
+  "dashboard": "Dashboard"
+}
